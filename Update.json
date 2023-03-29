@@ -1,0 +1,10 @@
+{
+  "latestVersion": "1.0",
+  "latestVersionCode": "10",
+  "url": "https://rebrand.ly/ZionTVDemo",
+  "releaseNotes": [
+    "[New] Something New",
+    "[Update] Something Updated",
+    "[Fix] Something Fixed"
+  ]
+}
