@@ -1,10 +1,9 @@
 {
-  "latestVersion": "1.0",
-  "latestVersionCode": "10",
-  "url": "https://rebrand.ly/ZionTVDemo",
+  "latestVersion": "2.0",
+  "latestVersionCode": "20",
+  "url": "https://bitbucket.org/SyntaxCode/movieshd/downloads/app-release.apk",
   "releaseNotes": [
-    "[New] Something New",
-    "[Update] Something Updated",
-    "[Fix] Something Fixed"
+    "[Update] Took Performance Measures",
+    "[Fix] Bug Fixes"
   ]
 }
