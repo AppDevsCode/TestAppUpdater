@@ -1,9 +1,9 @@
 {
-  "latestVersion": "4.0",
-  "latestVersionCode": "40",
+  "latestVersion": "1.5",
+  "latestVersionCode": "50",
   "url": "https://bitbucket.org/SyntaxCode/movieshd/downloads/app-release.apk",
   "releaseNotes": [
-    "[Update] Added New Sort By Filter For Movies/TV Shows",
+    "[Update] Added New Reset Filters Button To Movies/TV Shows",
     "[Update] Minor UI Changes",
     "[Fix] Bug Fixes"
   ]
