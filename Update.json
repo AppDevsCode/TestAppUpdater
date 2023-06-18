@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.5",
-  "latestVersionCode": "50",
+  "latestVersion": "1.6",
+  "latestVersionCode": "60",
   "url": "https://bitbucket.org/SyntaxCode/movieshd/downloads/app-release.apk",
   "releaseNotes": [
-    "[Update] Added New Reset Filters Button To Movies/TV Shows",
+    "[Update] Added New Servers",
     "[Update] Minor UI Changes",
     "[Fix] Bug Fixes"
   ]
