@@ -1,9 +1,9 @@
 {
-  "latestVersion": "3.1",
-  "latestVersionCode": "120",
+  "latestVersion": "3.2",
+  "latestVersionCode": "130",
   "url": "https://bitbucket.org/SyntaxCode/movieshd/downloads/app-release.apk",
   "releaseNotes": [
-    "[Update] Added New Servers/Providers",
+    "[Update] Revamped Home Screen Design",
     "[Update] Minor UI Changes",
     "[Update] External Library Updates",
     "[Fix] Bug Fixes"
