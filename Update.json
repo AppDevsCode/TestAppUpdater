@@ -1,11 +1,11 @@
 {
-  "latestVersion": "3.2",
-  "latestVersionCode": "130",
+  "latestVersion": "4.0",
+  "latestVersionCode": "150",
   "url": "https://bitbucket.org/SyntaxCode/movieshd/downloads/app-release.apk",
   "releaseNotes": [
-    "[Update] Revamped Home Screen Design",
-    "[Update] Minor UI Changes",
-    "[Update] External Library Updates",
+    "We've rebranded ZionTV to OFOO so this version will install as a seperate app",
+    "We have also launched a new website so do check it out for all the info about OFOO!",
+    "After installing OFOO, you can delete ZionTV from your device since it will no longer work...",
     "[Fix] Bug Fixes"
   ]
 }
